@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\A6SiparisYonetimi.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\A6SiparisYonetimi.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\A6SiparisYonetimi.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.FormSiparisDetay.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\obj\Debug\A6SiparisYonetimi.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\EPPlus.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\ADO.NET15\A6SiparisYonetimi\bin\Debug\EPPlus.xml
